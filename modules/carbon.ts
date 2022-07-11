@@ -18,7 +18,7 @@ module.exports = {
         isEnabled: true,
         text: [
             ".carbon helloworld.",
-            '.carbon #include <iostream> \nint main() \n{\n   std::cout << "Hello XaUserbot"; \n   return 0;\n} -t yeti',
+            '.carbon #include <iostream> \nint main() \n{\n   std::cout << "Hello Cilik-Userbot"; \n   return 0;\n} -t yeti',
             ".carbon -t",
         ],
     },
