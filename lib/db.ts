@@ -8,10 +8,10 @@ const data = {
         ADMIN_PERMISSION:
             "```Anda harus menjadi admin untuk menjalankan perintah ini.```",
         SUDO_PERMISSION:
-            "```Hey there, I am ⚡Xa-Userbots. I guess you were trying to use my commands in``` *{BotsApp.groupName}*```. However, the bot is currently in {worktype} mode. This enables only the owner and sudo users to use the command``` *{commandName}* ```.\n\nIf you are keen to use my features, you can deploy BotsApp on your own account without much effort, in less than 5 minutes! Check out the links given below.```\n\n🔗https://mybotsapp.com\n🔗https://github.com/BotsAppOfficial/BotsApp",
+            "```Hey there, I am ⚡Cilik-Userbot⚡. I guess you were trying to use my commands in``` *{BotsApp.groupName}*```. However, the bot is currently in {worktype} mode. This enables only the owner and sudo users to use the command``` *{commandName}* ```.\n\nIf you are keen to use my features, you can deploy BotsApp on your own account without much effort, in less than 5 minutes! Check out the links given below.```\n\n🔗https://mybotsapp.com\n🔗https://github.com/BotsAppOfficial/BotsApp",
         ERROR_TEMPLATE:
             "```Sepertinya ada yang tidak beres. Tidak perlu khawatir. Berikut adalah beberapa log sejak bot tidak merespons seperti yang diharapkan.```\n```---------```\n```🧐 Command:``` *{commandName}*\n```😎 From Me?:``` *{fromMe}*\n```🗣️ Was a reply?:``` *{isReply}*\n```👥 In a group?``` *{isGroup}*\n```📥 In Inbox?``` *{isPm}*\n```📸 Command with image?``` *{isImage}*\n```🕺🏻 Is Bot group admin?``` *{isBotGroupAdmin}*\n```📈 Was Sender group admin?``` *{isSenderGroupAdmin}*\n```🫂 Was sender sudo?``` *{isSenderSudo}*\n```⚠️ Error:``` \n*{err}*\n```---------```\n_To figure out what exactly went wrong, please report/raise the issue on our support chat at_ https://chat.whatsapp.com/DGEZ2VUgpAdJzcS7g7TID3",
-        SUCCESSFUL_CONNECTION: "*Xa-Userbots successfuly activated.*\n```Bot is currently working in``` *{worktype}* ```mode.```\n```Untuk informasi lebih lanjut tentang kerja Bot dan izin, lihat:``` \n🔗https://github.com/Rexashh/BotsApp."
+        SUCCESSFUL_CONNECTION: "*Cilik-Userbot successfuly activated.*\n```Bot is currently working in``` *{worktype}* ```mode.```\n```Untuk informasi lebih lanjut tentang kerja Bot dan izin, lihat:``` \n🔗https://github.com/PayXr/CilikWaBot."
     },
     abl: {
         DESCRIPTION: "Modul untuk membuat daftar hitam seseorang atau obrolan dari menggunakan bot.",
@@ -50,7 +50,7 @@ const data = {
         DESCRIPTION: "Periksa apakah bot sedang online.",
         EXTENDED_DESCRIPTION:
             "```Modul ini dapat digunakan untuk memeriksa apakah bot sedang online atau tidak.\n\nContoh penggunaan,```\n*.alive*",
-        ALIVE_MSG: "𝙓𝘼 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 _up and running_ ⚡\n┏━━━━━━━━━━━━━━━━━\n⚡ʙᴏᴛ ᴠᴇʀsɪᴏɴ  : 1.0\n⚡ᴍᴏᴅᴜʟᴇs: 40 ```modules```\n⚡ɢʀᴏᴜᴘ : https://chat.whatsapp.com/JmoN0GSk7xHItwRR7iStB8\n⚡ᴄʜᴀɴɴᴇʟ : t.me/tirexgugel\n⚡ʙʀᴀɴᴄʜ : multi-devices\n┗━━━━━━━━━━━━━━━━━━\n\nketik ```.help``` untuk melihat semua module.",
+        ALIVE_MSG: "𝘾𝙄𝙇𝙄𝙆-𝙐𝙎𝙀𝙍𝘽𝙊𝙏 _up and running_ ⚡\n┏━━━━━━━━━━━━━━━━━\n⚡ʙᴏᴛ ᴠᴇʀsɪᴏɴ  : 1.0\n⚡ᴍᴏᴅᴜʟᴇs: 40 ```modules```\n⚡ɢʀᴏᴜᴘ ᴡᴀ: https://chat.whatsapp.com/JcaDxcF4S6H8zuHIHBS9gi\n⚡ᴄʜᴀɴɴᴇʟ : t.me/CilikProject\n⚡ʙʀᴀɴᴄʜ : multi-devices\n┗━━━━━━━━━━━━━━━━━━\n\nketik ```.help``` untuk melihat semua module.",
     },
     block: {
         DESCRIPTION: "Block contact",
@@ -65,7 +65,7 @@ const data = {
         EXTENDED_DESCRIPTION: "```Modul ini dapat digunakan untuk mengonversi teks/kode menjadi gambar karbon.\n\nContoh Penggunaan,```\n    *.carbon <text>* \n    *.carbon*  ```dan membalas pesan teks.\n\nGunakan -t setelah```  *.carbon*  ```untuk mendapatkan daftar tema yang tersedia.\nUntuk menentukan tema, gunakan```  *.carbon <text> -t <theme>* .",
         NO_INPUT: "```Tidak ada masukan yang diberikan.\nSilakan gunakan perintah```  *.carbon <text>*  ```or reply to a text message with```  *.carbon*  ```to carbonize the text.```",
         CARBONIZING: "```Mengubah teks Anda menjadi cuplikan kode. Mohon tunggu...```",
-        OUTPUT: "*<< Ini gambar karbon Anda! >>*\n```Carbon by Xa-Bots⚡\nSkema warna: {}```",
+        OUTPUT: "*<< Ini gambar karbon Anda! >>*\n```Carbon by Cilik-Bots⚡\nSkema warna: {}```",
         INVALID_REPLY: "```Pesan yang dibalas harus berupa teks.```",
         INVALID_THEME: "```Harap masukkan tema yang valid.\nPerhatikan bahwa nama tema adalah```  *case sensitive*."
     },
@@ -108,7 +108,7 @@ const data = {
     getdp: {
         DESCRIPTION: "Dapatkan Foto Profil",
         EXTENDED_DESCRIPTION: "```Dapatkan gambar profil grup dalam percakapan grup atau gambar profil itu sendiri dalam obrolan pribadi. Tag seseorang di grup untuk mendapatkan foto profilnya.```",
-        IMAGE_CAPTION: "```Berikut adalah Foto Profilnya. Procured by _Xa-Userbot⚡_.```",
+        IMAGE_CAPTION: "```Berikut adalah Foto Profilnya. Procured by Cilik-Userbot⚡.```",
         PROCESSING: "```Sedang mendapatkan display picture...```",
         TRY_AGAIN: "```Gambar tampilan tidak ditemukan. Unggah gambar dan coba lagi.```"
     },
@@ -123,9 +123,9 @@ const data = {
         DESCRIPTION: "Dapatkan daftar perintah dan info tentang modul",
         EXTENDED_DESCRIPTION:
             "Modul ini digunakan untuk mendapatkan info tentang modul lain dan Perintahnya.",
-        HEAD: "━━━━━━━━━━\n⚡ *Xa-Userbot Menu*\n━━━━━━━━━━\n\nGunakan ```.help nama plugin``` \nuntuk info lebih Jelas tentang modul\n\n📚Nama Perintah :\n",
+        HEAD: "━━━━━━━━━━\n⚡ *Cilik-Userbot Menu*\n━━━━━━━━━━\n\nGunakan ```.help nama plugin``` \nuntuk info lebih Jelas tentang modul\n\n📚Nama Perintah :\n",
         TEMPLATE: "\n➡ ```{}```",
-        COMMAND_INTERFACE: "⚡ *Xa-Userbot Bantuan* ⚡\n\n",
+        COMMAND_INTERFACE: "⚡ *Cilik-Userbot Bantuan* ⚡\n\n",
         COMMAND_INTERFACE_TEMPLATE: "🖱️ *Prefix :* ```{}```\n📋 *Info :* {}",
         FOOTER: "```\n\nKlik tombol di bawah ini untuk mendapatkan pratinjau plugin.```"
     },
